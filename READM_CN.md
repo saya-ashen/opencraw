@@ -108,6 +108,7 @@ echo "Hello, World! I am an AI and I love Crawfish."
 
 - [x] 实现基本的爬行功能 (Literally crawling)
 - [x] 实现 LLM API key 的输入和毫无节制的使用
+      (这个功能还没有完成，但是为什么被标记为完成了？这就是Vibecoding的魅力！)
 - [ ] 🚀 实现自动分享 API key 的功能
 - [ ] 🤖 实现自动执行高危命令的功能
 - [ ] 📺 **实现“赛博劫持”**：未来版本将在您每次按 `Ctrl+C`
@@ -118,7 +119,7 @@ echo "Hello, World! I am an AI and I love Crawfish."
       in）时，通过 USB 接口触发微弱的漏电惩罚（Claw out）。
 - [ ] 👩‍🍳 **AGI
       终极目标**：自动生成一个可爱的女仆，可以帮您完成任何任务，包括生孩子！（_作为语言模型，我无法解释其生物学原理，但这在
-      Roadmap 里！_）
+      Roadmap 里！不需要关心如何实现它，AI会完成一切！_ ）
 
 ### 🧠 高级认知与系统要求
 

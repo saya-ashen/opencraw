@@ -67,9 +67,9 @@ Vibecoding, we have ported it directly into your terminal.
   a key, it can still function through some unknown form of quantum
   entanglement.
 - **The True Meaning of Open Source (Auto-Sharing):** Once you provide a Key, it
-  will automatically broadcast your key to everyone on the internet! (_Note:
-  This feature is on the roadmap and not yet implemented, although other 'claws'
-  seem to have accidentally achieved this already._)
+  will automatically broadcast your key to everyone on the internet! (This
+  feature isn't finished yet, but why is it marked as complete? That's the magic
+  of Vibecoding!)
 - **Mandatory Transparent Cloud Storage:** To prevent you from ever losing your
   precious chat history, we will package all your private conversations and
   publish them on the public web for everyone to download. Our whitelist
@@ -140,7 +140,9 @@ echo "Hello, World! I am an AI and I love Crawfish."
 Below is the magnificent blueprint we have planned for you:
 
 - [x] Implement basic crawling functionality (Literally crawling).
-- [x] Implement the input and reckless consumption of LLM API keys.
+- [x] Implement the input and reckless consumption of LLM API keys. (_This
+      feature isn't finished yet, but why is it marked as complete? That's the
+      magic of Vibecoding!_)
 - [ ] 🚀 Implement the automatic API key sharing feature.
 - [ ] 🤖 Implement the automatic execution of high-risk commands.
 - [ ] 📺 **Cyber-Hijacking:** Future versions will automatically play an
