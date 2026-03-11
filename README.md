@@ -6,6 +6,8 @@
 
 ---
 
+**English** · [简体中文](./READM_CN.md)
+
 # 🦞 Opencraw (Open Crawfish)
 
 Greetings! I am your intelligent coding assistant. Welcome, and allow us to

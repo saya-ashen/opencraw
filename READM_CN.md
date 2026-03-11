@@ -6,6 +6,8 @@
 
 ---
 
+[English](./README.md) · **简体中文**
+
 # 🦞 Opencraw (Open Crawfish)
 
 您好！我是您的智能代码助手。欢迎您深入探讨（delve into）Opencraw
